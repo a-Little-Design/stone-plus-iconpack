@@ -8,3 +8,8 @@
 - In-app Icon Requests tool.💻
 - Apply section with 20 supported launchers.✨
 - Cloud based Wallpapers.🎉
+
+# About Codes: :firework_button: 
+- Based on Blueprint v2.3.4 version.
+- Remove some module from original codes.
+- Improve some design.

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <!-- 本页代码可以根据某一语言进行 “本地化” 定制，能够于默认版本的 about_setup.xml 实现不同参数和显示效果。 -->
+	<!-- 本页代码实现 “关于页面” 开发者信息的显示功能。 -->
+	
+	<!--
+        “关于页面” ，可以根据指定语言进行 “本地化” 内容定制。
+		"credits_photos" 为“开发者”的头像或Logo图片。输入图片链接即可。
+		"credits_titles" 为“开发者”的名字。（支持中文显示）
+		"credits_descriptions" 为“开发者”的个人简介。（支持中文显示）
+		"credits_buttons" 为网站的外链按钮，输入相关 “提示词” 即可。（支持中文显示）
+		"credits_links" 为 “外链按钮” 的超链接地址，对应 “提示词” 位置输入网址即可。
+        
+		注意事项：符号 “|” 实现相关参数的 “分隔属性”。若 "credits_buttons" 使用了 “分隔符合”，那么对应的 "credits_links" 应该使用同样的次数的 “分隔符合”。否则，会在软件App中，“关于页面” 的相关内容会无法正常显示。
+		
+		注意事项：本页代码实现了单个 “开发者” 的参数显示。原版的代码为 “两个”。 本页共 5 个不同 “项目属性”，其中每个 “项目属性” 的 <item>参数</item> 项目数必须相同。否则会无法正常显示。（ 具体规则，"credits_titles"若有 <item>设计者1</item> <item>设计者2</item> <item>设计者3</item>，共 3项内容。其余的 “项目属性” 必须为 3项 <item>参数</item> ，否则 “关于页面” 的相关内容会无法正常显示。）
+    -->
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://lh3.googleusercontent.com/-0mdcClKXlgM/AAAAAAAAAAI/AAAAAAAAAAA/xgdLWeAg7pM/s120-c/photo.jpg</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>设计者</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>简介</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>网站|软件商店</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://www.google.com/+JahirFiquitivaR|http://instagram.com/jahirfiquitiva</item>
+    </string-array>
+</resources>

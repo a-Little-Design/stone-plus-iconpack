@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?><!--suppress CheckTagEmptyBody -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingDefaultResource">
+    <!-- 本页代码可以根据某一语言进行 “本地化” 定制，能够于默认版本的 home_setup.xml 实现不同参数和显示效果。 -->
+	<!-- 本页代码实现 “软件首页” 相关项目的显示功能。 -->
+	
+	<!--
+        Home actions style ==> Share / Rate / Donate buttons
+        0. Hidden
+        1. Small
+        2. Big
+    -->
+    <integer name="home_actions_style">1</integer>
+
+    <!--
+        Do you want to show overview in home section?
+        True, means yes.
+        False, means no.
+    -->
+    <bool name="show_overview">true</bool>
+
+    <!--
+        Do you want the quick apply button to show its text?
+        True, means yes.
+        False, means no.
+    -->
+    <bool name="show_quick_apply_text">true</bool>
+
+    <!--
+        Set a custom text to the quick apply button.
+        Be sure to add translations, or it might not be shown in other languages.
+        Leave empty for the app to use the default "Quick Apply" text
+    -->
+    <string name="quick_apply_custom_text"></string>
+
+    <!-- These arrays are for the list of apps or links in main section. -->
+	<!-- 注意事项：本节代码实现了 4个不同 “项目属性”。其中每个 “项目属性” 的 <item>参数</item> “项目数”的排列顺序会一一对应。
+	（ “项目属性”的 <item>参数</item> 的 数量必须相同，否则，某项会无法正常显示。） -->
+    <string-array name="home_list_titles">
+        <item>软件1</item>
+        <item>软件2</item>
+        <item>项目3</item>
+    </string-array>
+    <string-array name="home_list_descriptions">
+        <item>软件1简介。It is the amazing app.</item>
+        <item>软件2简介。This is an app.</item>
+        <item>项目3简介。This is url.</item>
+    </string-array>
+    <string-array name="home_list_icons">
+        <item>ic_na_launcher1 “软件1”的图标文件名，放在图标文件夹</item>
+        <item>ic_na_launcher2 “软件2”的图标文件名，放在图标文件夹</item>
+        <item>ic_na_launcher3 “项目3”的图标文件名，放在图标文件夹</item>
+    </string-array>
+    <string-array name="home_list_links">
+        <item>market://details?id=com.example.package</item>
+        <item>https://play.google.com/store/apps/details?id=com.android.settings</item>
+        <item>https://github.com/jahirfiquitiva/Blueprint</item>
+    </string-array>
+</resources>

@@ -4,7 +4,7 @@
 [About Blueprint.](https://github.com/jahirfiquitiva/Blueprint)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/iconpack.jpg" height="350"/>
+<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/iconpack.jpg" height="120"/>
 </p>
 
 # Features: :radio_button: 
@@ -18,7 +18,7 @@
 - Remove some module from original codes.🔨
 - Improve some details.🔧
 
-# Preview
+# Preview🎁
 <p align="center">
 <img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Play%20(1).jpg" height="350"/>
 <img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Play%20(2).jpg" height="350"/>

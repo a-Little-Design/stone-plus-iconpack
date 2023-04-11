@@ -27,6 +27,10 @@
 <img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(5).jpg" height="350"/>
 </p>
 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/stone_plus_promo.png" height="220"/>
+</p>
+
 
 #
 #
@@ -68,3 +72,8 @@
 <img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(4).jpg" height="350"/>
 <img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(5).jpg" height="350"/>
 </p>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/stone_plus_promo.png" height="220"/>
+</p>
+

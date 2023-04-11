@@ -28,4 +28,8 @@
 <img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Play%20(3).jpg" height="350"/>
 <img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Play%20(4).jpg" height="350"/>
 <img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Play%20(5).jpg" height="350"/>
+
+</p>
+<p align="center">
+<img src="https://github.com/a-Little-Design/hello/blob/main/cloud/app/src/main/res/promo/stone_plus_promo.png" height="220"/>
 </p>

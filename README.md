@@ -1,7 +1,7 @@
 # 圓石+ 圖示包  Stone Plus Iconpack
 
 :blue_heart: 一款基於 Blueprint 軟體框架製作的免費圖示包。 [![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Blueprint.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Blueprint)
-[About Blueprint.](https://github.com/jahirfiquitiva/Blueprint)
+[關於 Blueprint.](https://github.com/jahirfiquitiva/Blueprint)
 
 # Features: :radio_button: 
 - 遵循 Material Design 設計的軟體界面。🎨
@@ -28,7 +28,7 @@
 # 圆石+ 图标包  Stone Plus Iconpack
 
 :blue_heart: 基于 Blueprint 软件框架制的免费图标包。 [![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Blueprint.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Blueprint)
-[About Blueprint.](https://github.com/jahirfiquitiva/Blueprint)
+[关于 Blueprint.](https://github.com/jahirfiquitiva/Blueprint)
 
 # Features: :radio_button: 
 - 遵循 Material Design 设计的软件界面。🎨

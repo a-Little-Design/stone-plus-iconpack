@@ -4,7 +4,7 @@
 [About Blueprint.](https://github.com/jahirfiquitiva/Blueprint)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/iconpack.jpg" height="120"/>
+<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/iconpack.jpg" height="220"/>
 </p>
 
 # Features: :radio_button: 

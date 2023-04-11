@@ -8,7 +8,7 @@
 </p>
 
 # [中文简介](https://github.com/a-Little-Design/stone-plus-iconpack/blob/main/README-zh.md)🎨
-- [Click Here.✨](https://cdn.jsdelivr.net/gh/a-Little-Design/stone-plus-iconpack/README-zh.md)
+- [Click Here.✨](https://github.com/a-Little-Design/stone-plus-iconpack/blob/main/README-zh.md)
 
 # Features: :radio_button: 
 - Material Design dashboard.🎨

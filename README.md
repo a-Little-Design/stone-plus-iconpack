@@ -1,4 +1,4 @@
-# Stone Plus Iconpack
+# Stone Plus Iconpack [中文简介](https://github.com/a-Little-Design/stone-plus-iconpack/blob/main/README-zh.md)🎨
 
 :blue_heart: A Free iconpack App With Blueprint Android Dashboard. [![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Blueprint.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Blueprint)
 [About Blueprint.](https://github.com/jahirfiquitiva/Blueprint)

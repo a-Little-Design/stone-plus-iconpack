@@ -39,6 +39,8 @@ This Source Code is shared under the [CreativeCommons Attribution-ShareAlike 4.0
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
+  - This Source Code of this repository is free for open source.
+  - You 
   
 # Application Licenses
 This Application file which the package of APK, is shared under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0).

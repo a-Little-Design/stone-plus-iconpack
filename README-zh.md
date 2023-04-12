@@ -36,8 +36,8 @@ This Source Code is shared under the [CreativeCommons Attribution-ShareAlike 4.0
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
-- 本项目的代码遵循以下许可协议进行免费开源。
-- 本项目的代码为定制优化版本。若想获取最新版本，请查看原版的[Blueprint](https://github.com/jahirfiquitiva/Blueprint)代码库。
+- 本項目的代碼程式遵循上述許可協議進行免費開源。
+- 本項目的代碼程式爲定製優化版本。若要獲取最新版本，請查看原版[Blueprint](https://github.com/jahirfiquitiva/Blueprint)代碼庫。
 
 
 # Application Licenses
@@ -57,8 +57,8 @@ This Application file which the package of APK, is shared under the [Attribution
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
-- 本项目Release中提供的APK软件程序,只作为免费软件分发和许可。请勿用于商业行为。
-- 本软件APK文件的Copyright权利归软件开发者所有。
+- 本項目Release中提供的APK軟體程式,只作爲免費軟體分發和許可。請勿用於商業領域。
+- 本軟體APK文件的Copyright權利歸屬軟件開發者所有。
 
 
 
@@ -126,7 +126,9 @@ This Source Code is shared under the [CreativeCommons Attribution-ShareAlike 4.0
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
-  
+- 本项目的代码遵循上述许可协议进行免费开源。
+- 本项目的代码为定制优化版本。若想获取最新版本，请查看原版的[Blueprint](https://github.com/jahirfiquitiva/Blueprint)代码库。
+
 # Application Licenses
 This Application file which the package of APK, is shared under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0).
 
@@ -144,7 +146,8 @@ This Application file which the package of APK, is shared under the [Attribution
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
-
+- 本项目Release中提供的APK软件程序,只作为免费软件分发和许可。请勿用于商业行为。
+- 本软件APK文件的Copyright权利归软件开发者所有。
 
 
 # Preview🎁

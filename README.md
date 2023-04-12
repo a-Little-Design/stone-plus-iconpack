@@ -27,8 +27,8 @@ This Source Code is shared under the [CreativeCommons Attribution-ShareAlike 4.0
 
 	Copyright © 2023 Little Design
 
-	Licensed under the CreativeCommons Attribution-ShareAlike 
-	4.0 International License. You may not use this file except in compliance 
+	Licensed under the CreativeCommons Attribution-ShareAlike 4.0 International 
+	(CC BY-SA 4.0) License. You may not use this file except in compliance 
 	with the License. You may obtain a copy of the License at
 
 	   https://creativecommons.org/licenses/by-sa/4.0/legalcode
@@ -45,9 +45,9 @@ This Application file which the package of APK, is shared under the [Attribution
 
 	Copyright © 2023 Little Design
 
-	Licensed under the CreativeCommons Attribution-ShareAlike 
-	4.0 International License. You may not use this file except in compliance 
-	with the License. You may obtain a copy of the License at
+	Licensed under the CreativeCommons Attribution-NonCommercial-ShareAlike 4.0 
+	International (CC BY-NC-SA 4.0) License. You may not use this file except in 
+	compliance with the License. You may obtain a copy of the License at
 
 	   https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
            https://creativecommons.org/licenses/by-nc-sa/4.0/

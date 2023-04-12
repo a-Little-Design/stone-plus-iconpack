@@ -21,8 +21,8 @@
 - Remove some module from original codes.🔨
 - Improve some details.🔧
 
-# Licenses
-
+# Licenses💎
+# Source Code Licenses
 This Source Code is shared under the [CreativeCommons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0).
 
 	Copyright © 2023 Little Design
@@ -40,7 +40,7 @@ This Source Code is shared under the [CreativeCommons Attribution-ShareAlike 4.0
 	See the License for the specific language governing permissions and
 	limitations under the License.
   
-
+# Application Licenses
 This Application file which the package of APK, is shared under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0).
 
 	Copyright © 2023 Little Design

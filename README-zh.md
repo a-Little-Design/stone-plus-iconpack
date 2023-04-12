@@ -37,7 +37,7 @@ This Source Code is shared under the [CreativeCommons Attribution-ShareAlike 4.0
 	See the License for the specific language governing permissions and
 	limitations under the License.
 - 本項目的代碼程式遵循上述許可協議進行免費開源。
-- 本項目的代碼程式爲定製優化版本。若要獲取最新版本， 請查看原版[Blueprint](https://github.com/jahirfiquitiva/Blueprint)代碼庫。
+- 本項目的代碼程式爲定製優化版本。若要獲取最新版本， 請查看原版 [Blueprint](https://github.com/jahirfiquitiva/Blueprint) 代碼庫。
 
 
 # Application Licenses

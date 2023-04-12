@@ -32,6 +32,7 @@ This Source Code is shared under the [CreativeCommons Attribution-ShareAlike 4.0
 	with the License. You may obtain a copy of the License at
 
 	   https://creativecommons.org/licenses/by-sa/4.0/legalcode
+	   
            https://creativecommons.org/licenses/by-sa/4.0
 
 	Unless required by applicable law or agreed to in writing, software
@@ -52,6 +53,7 @@ This Application file which the package of APK, is shared under the [Attribution
 	compliance with the License. You may obtain a copy of the License at
 
 	   https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+	   
            https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 	Unless required by applicable law or agreed to in writing, software

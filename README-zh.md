@@ -20,6 +20,8 @@
 
 # Licenses💎
 # Source Code Licenses
+- 本项目的代码遵循以下许可协议进行免费开源。
+- 本项目的代码为定制优化版本。若想获取最新版本，请查看原版的[Blueprint](https://github.com/jahirfiquitiva/Blueprint)代码库。
 This Source Code is shared under the [CreativeCommons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0).
 
 	Copyright © 2023 Little Design
@@ -38,6 +40,8 @@ This Source Code is shared under the [CreativeCommons Attribution-ShareAlike 4.0
 	limitations under the License.
   
 # Application Licenses
+- 本项目Release中提供的APK软件程序,只作为免费软件分发和许可。请勿用于商业行为。
+- 该软件APK的Copyright权利归软件开发者所有。
 This Application file which the package of APK, is shared under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0).
 
 	Copyright © 2023 Little Design

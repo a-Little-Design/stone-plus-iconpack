@@ -130,7 +130,7 @@ This Source Code is shared under the [CreativeCommons Attribution-ShareAlike 4.0
 	See the License for the specific language governing permissions and
 	limitations under the License.
 - 本项目的代码遵循上述许可协议进行免费开源。
-- 本项目的代码为定制优化版本。若想获取最新版本， 请查看原版的[Blueprint](https://github.com/jahirfiquitiva/Blueprint)代码库。
+- 本项目的代码为定制优化版本。若想获取最新版本， 请查看原版的 [Blueprint](https://github.com/jahirfiquitiva/Blueprint) 代码库。
 
 # Application Licenses
 This Application file which the package of APK, is shared under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0).

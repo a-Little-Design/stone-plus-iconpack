@@ -4,10 +4,6 @@
 [About Blueprint.](https://github.com/jahirfiquitiva/Blueprint)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/iconpack.jpg" height="220"/>
-</p>
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Promo_stone_plus.webp" height="520"/>
 </p>
 
@@ -34,6 +30,12 @@
 - Based on Blueprint v2.3.4 version.💎
 - Remove some module from original codes.🔨
 - Improve some details.🔧
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/iconpack.jpg" height="220"/>
+</p>
+
 
 # Licenses💎
 # Source Code Licenses

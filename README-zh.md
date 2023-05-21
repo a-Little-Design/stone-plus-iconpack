@@ -12,15 +12,15 @@
 #
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Promo_stone_plus.webp" height="520"/>
+<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Promo_stone_plus.webp" height="520"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Promo_stone_plus_1.webp" height="520"/>
+<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Promo_stone_plus_3.webp" height="520"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Promo_stone_plus_2.webp" height="520"/>
+<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Promo_stone_plus_4.webp" height="520"/>
 </p>
 
 #
@@ -44,7 +44,7 @@
 - 改進和優化部分代碼。🔧
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/iconpack.jpg" height="220"/>
+<img src="https://gcore.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/iconpack.jpg" height="220"/>
 </p>
 
 # Licenses💎
@@ -95,15 +95,15 @@ This Application file which the package of APK, is shared under the [Attribution
 
 # Preview🎁
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(1).jpg" height="350"/>
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(2).jpg" height="350"/>
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(3).jpg" height="350"/>
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(4).jpg" height="350"/>
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(5).jpg" height="350"/>
+<img src="https://gcore.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(1).jpg" height="350"/>
+<img src="https://gcore.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(2).jpg" height="350"/>
+<img src="https://gcore.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(3).jpg" height="350"/>
+<img src="https://gcore.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(4).jpg" height="350"/>
+<img src="https://gcore.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(5).jpg" height="350"/>
 </p>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/stone_plus_promo.png" height="220"/>
+<img src="https://gcore.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/stone_plus_promo.png" height="220"/>
 </p>
 
 
@@ -125,7 +125,7 @@ This Application file which the package of APK, is shared under the [Attribution
 [关于 Blueprint.](https://github.com/jahirfiquitiva/Blueprint)
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/iconpack.jpg" height="220"/>
+<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/iconpack.jpg" height="220"/>
 </p>
 
 # Features: :radio_button: 
@@ -185,14 +185,14 @@ This Application file which the package of APK, is shared under the [Attribution
 
 # Preview🎁
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(1).jpg" height="350"/>
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(2).jpg" height="350"/>
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(3).jpg" height="350"/>
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(4).jpg" height="350"/>
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(5).jpg" height="350"/>
+<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(1).jpg" height="350"/>
+<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(2).jpg" height="350"/>
+<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(3).jpg" height="350"/>
+<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(4).jpg" height="350"/>
+<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Play%20(5).jpg" height="350"/>
 </p>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/stone_plus_promo.png" height="220"/>
+<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/stone_plus_promo.png" height="220"/>
 </p>
 

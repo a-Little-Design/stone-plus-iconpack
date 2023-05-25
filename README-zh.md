@@ -12,15 +12,15 @@
 #
 
 <p align="center">
-<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Promo_stone_plus.webp" height="520"/>
+<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Promo_stone_plus.webp"/>
 </p>
 
 <p align="center">
-<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Promo_stone_plus_3.webp" height="520"/>
+<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Promo_stone_plus_3.webp"/>
 </p>
 
 <p align="center">
-<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Promo_stone_plus_4.webp" height="520"/>
+<img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/Promo_stone_plus_4.webp"/>
 </p>
 
 #

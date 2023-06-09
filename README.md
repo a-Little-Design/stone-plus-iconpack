@@ -1,4 +1,4 @@
-# Stone Plus Iconpack
+# Stone Plus Iconpack🎁
 
 :blue_heart: A Free iconpack App With Blueprint Android Dashboard. [![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Blueprint.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Blueprint)
 [About Blueprint.](https://github.com/jahirfiquitiva/Blueprint)
@@ -15,14 +15,14 @@
 ---
 #
 
-# Yuanshi Design Style
-Yuanshi Design Style, What is the Icons Design Style with colorful material and textured.
+# Yuanshi Design Style💎
+Yuanshi Design Style, What is the Icons Design Style with colorful material and textured.🎨
 
-Yuanshi Design Style, the original inspiration from a smooth and little stone. 
+Yuanshi Design Style, the original inspiration from a smooth and little stone. ✨
 
-There are three different iconpack with Yuanshi Design Style now.
+There are three different iconpack with Yuanshi Design Style now.🎉
 
-[More Yuanshi Design Style Information And Preview Here.✨](https://github.com/a-Little-Design/stone-plus-iconpack/blob/main/README-design.md)
+[More Yuanshi Design Style Information And Preview Here.✨](https://github.com/a-Little-Design/stone-plus-iconpack/blob/main/README-design.md)🎁
 
 #
 ---

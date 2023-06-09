@@ -20,9 +20,9 @@
 
 圓石設計風格，最初的設計靈感源自一顆光滑圓潤的小石子。
 
-現在已經有三款採用圓石設計風格的安卓手機圖示包。
+現已推出三款採用圓石設計風格的安卓手機圖示包。
 
-[點擊查看更多，關於圓石系列圖示的相關資訊。✨](https://github.com/a-Little-Design/stone-plus-iconpack/blob/main/README-design.md)
+[點擊獲取更多，關於圓石系列圖示的相關資訊。✨](https://github.com/a-Little-Design/stone-plus-iconpack/blob/main/README-design.md)
 
 #
 ---

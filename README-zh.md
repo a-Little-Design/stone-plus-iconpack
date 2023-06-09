@@ -8,7 +8,7 @@
 #
 
 <p align="center">
-<img src="https://testingcf.jsdelivr.net/gh/)a-Little-Design/hello/main/cloud/app/src/main/res/promo/iconpack.jpg" height="220"/>
+<img src="https://gcore.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/iconpack.jpg" height="220"/>
 </p>
 
 #

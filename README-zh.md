@@ -7,6 +7,27 @@
 ---
 #
 
+<p align="center">
+<img src="https://testingcf.jsdelivr.net/gh/)a-Little-Design/hello/main/cloud/app/src/main/res/promo/iconpack.jpg" height="220"/>
+</p>
+
+#
+---
+#
+
+# 圓石設計風格
+圓石設計風格，一種簡潔多彩和輕度立體的質感圖示設計風格。
+
+圓石設計風格，最初的設計靈感源自一顆光滑圓潤的小石子。
+
+現在已經有三款採用圓石設計風格的安卓手機圖示包。
+
+[點擊查看更多，關於圓石系列圖示的相關資訊。✨](https://github.com/a-Little-Design/stone-plus-iconpack/blob/main/README-design.md)
+
+#
+---
+#
+
 #
 ---
 #
@@ -124,9 +145,26 @@ This Application file which the package of APK, is shared under the [Attribution
 :blue_heart: 基于 Blueprint 软件框架制的免费图标包。 [![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Blueprint.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Blueprint)
 [关于 Blueprint.](https://github.com/jahirfiquitiva/Blueprint)
 
+#
+---
+#
+
 <p align="center">
 <img src="https://testingcf.jsdelivr.net/gh/a-Little-Design/hello/cloud/app/src/main/res/promo/iconpack.jpg" height="220"/>
 </p>
+
+#
+---
+#
+
+# 圆石设计风格
+圆石设计风格，一种简洁多彩和轻立体的质感图标设计风格。
+
+圆石设计风格，最初的设计灵感源自一颗光滑圆润的小石子。
+
+现在已经推出三款采用圆石设计风格的安卓手机图标包。
+
+[点击获取更多，关于圆石系列图标的预览图和链接资讯。✨](https://github.com/a-Little-Design/stone-plus-iconpack/blob/main/README-design.md)
 
 # Features: :radio_button: 
 - 遵循 Material Design 设计的软件界面。🎨

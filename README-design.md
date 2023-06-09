@@ -40,15 +40,15 @@ There are three different iconpack with Yuanshi Design Style now.
 # COLOR Pro Iconpack
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Promo_stone_plus.webp"/>
+<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/COLOR-Pro-Promo2.webp"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Promo_stone_plus_1.webp"/>
+<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/COLOR-Pro-Promo2c.webp"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Promo_stone_plus_2.webp"/>
+<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/COLOR-Pro-Promo2d.webp"/>
 </p>
 
 #
@@ -76,15 +76,15 @@ There are three different iconpack with Yuanshi Design Style now.
 # Stone Plus Iconpack
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Promo_stone_plus.webp"/>
+<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Hyperoval-Promo2.webp"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Promo_stone_plus_1.webp"/>
+<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Hyperoval-Promo2c.webp"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Promo_stone_plus_2.webp"/>
+<img src="https://raw.githubusercontent.com/a-Little-Design/hello/main/cloud/app/src/main/res/promo/Hyperoval-Promo2d.webp"/>
 </p>
 
 #

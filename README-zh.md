@@ -162,7 +162,7 @@ This Application file which the package of APK, is shared under the [Attribution
 
 圆石设计风格，最初的设计灵感源自一颗光滑圆润的小石子。
 
-现在已经推出三款采用圆石设计风格的安卓手机图标包。
+现已推出三款采用圆石设计风格的安卓手机图标包。
 
 [点击获取更多，关于圆石系列图标的预览图和链接资讯。✨](https://github.com/a-Little-Design/stone-plus-iconpack/blob/main/README-design.md)
 
